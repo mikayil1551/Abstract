@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.27.2021\Abstract\Abstract\obj\Debug\Abstract.pdb
